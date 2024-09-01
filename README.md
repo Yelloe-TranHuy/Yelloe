@@ -36,3 +36,5 @@
 <p dir="auto"><img src="https://github-readme-stats.vercel.app/api?username=yelloe-tranhuy&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;"></a><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yelloe-tranhuy&amp;theme=dark&amp;hide_border=false" style="max-width: 100%;"></a><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yelloe-tranhuy&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;"></a></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelloe-tranhuy)](https://github.com/yelloe-tranhuy/github-readme-stats)
