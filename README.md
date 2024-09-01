@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **C#, C++, Java**
 
-- 🤝 I’m looking to collaborate on [DarkNight](https://github.com/Minosuko/DarkNight)
+- 🤝 I'm collaborating on [DarkNight](https://github.com/Minosuko/DarkNight)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yelloe-TranHuy](https://github.com/Yelloe-TranHuy)
+- 👨‍💻 All of my projects are available at [Yelloe-TranHuy](https://github.com/Yelloe-TranHuy)
 
 - 📫 How to reach me **tranhuymadao123@gmail.com**
 
