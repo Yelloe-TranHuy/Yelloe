@@ -3,9 +3,6 @@
 <h3 align="center">A new passionate developer from Vietnamese</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1161871381743554560/1279772755612401675/Yelloe_avatar_pfp.gif?ex=66d5a8c1&is=66d45741&hm=1ca11d1e5ef81fd45e2a988186ac3333dfa0442740a5f90fe0430d9dadb8c369&">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yelloe-tranhuy&label=Profile%20views&color=0e75b6&style=flat" alt="yelloe-tranhuy" /> </p>
-
-
 - 🌱 I’m currently learning **C#, C++, Java**
 
 - 🤝 I'm collaborating on [DarkNight](https://github.com/Minosuko/DarkNight)
@@ -35,3 +32,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelloe-tranhuy&theme=synthwave)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br>
 [![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=yelloe-tranhuy&theme=synthwave)](https://www.youtube.com/watch?v=Nk5XLCvGi9E)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yelloe-tranhuy&amp;theme=synthwave)](https://www.youtube.com/watch?v=FKYyB3tQJkY)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yelloe-tranhuy&label=Profile%20views&color=0e75b6&style=flat" alt="yelloe-tranhuy" /> </p>
