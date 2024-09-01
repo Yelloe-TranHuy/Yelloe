@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yelloe-tranhuy&label=Profile%20views&color=0e75b6&style=flat" alt="yelloe-tranhuy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yelloe_foxxy" target="blank"><img src="https://img.shields.io/twitter/follow/yelloe_foxxy?logo=twitter&style=for-the-badge" alt="yelloe_foxxy" /></a> </p>
 
 - 🌱 I’m currently learning **C#, C++, Java**
 
@@ -22,6 +21,7 @@
 <a href="https://instagram.com/yelloefoxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yelloefoxie" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@yelloefoxie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yelloefoxie" height="30" width="40" /></a>
 <a href="https://discord.gg/7kNkPVjdSy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7kNkPVjdSy" height="30" width="40" /></a>
+<a href="https://twitter.com/yelloe_foxxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7kNkPVjdSy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
