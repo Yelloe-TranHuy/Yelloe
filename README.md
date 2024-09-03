@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/Yelloe-TranHuy/Yelloe-TranHuy/main/img/Yelloe_wagging_tail.gif)
+![MasterHead](https://cdn.discordapp.com/attachments/1161871381743554560/1279762810808696885/Yelloe_wagging_tail.gif?ex=66d8427e&is=66d6f0fe&hm=0ede18c947d0a7c249fec20714980855758026dc1b669bb594e5a3d67957bf56&)
 <h1 align="center">Hi 👀, I'm Tran Huy</h1>
 <h3 align="center">A new passionate developer from Vietnamese</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Yelloe-TranHuy/Yelloe-TranHuy/main/img/Yelloe_avatar_pfp.gif">
