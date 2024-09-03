@@ -1,7 +1,7 @@
-![MasterHead](https://cdn.discordapp.com/attachments/1161871381743554560/1279762810808696885/Yelloe_wagging_tail.gif?ex=66d59f7e&is=66d44dfe&hm=bea4bcd8f2e71e6373401d0e2cbac12774fcc0aab4aaa0181a58a75abc95c44d&)
+![MasterHead](https://raw.githubusercontent.com/Yelloe-TranHuy/Yelloe-TranHuy/main/img/Yelloe_wagging_tail.gif)
 <h1 align="center">Hi 👀, I'm Tran Huy</h1>
 <h3 align="center">A new passionate developer from Vietnamese</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1161871381743554560/1279772755612401675/Yelloe_avatar_pfp.gif?ex=66d5a8c1&is=66d45741&hm=1ca11d1e5ef81fd45e2a988186ac3333dfa0442740a5f90fe0430d9dadb8c369&">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Yelloe-TranHuy/Yelloe-TranHuy/main/img/Yelloe_avatar_pfp.gif">
 
 - 🌱 I’m currently learning **C#, C++, Java**
 
